@@ -17,8 +17,7 @@ python3 conect4logic.py
 ```
 """
 
-#Rules
- * Crea el juego conecta cuatro.
+# Rules
  * Game mode:
  * - Tablero de 7x6 (7 en el eje "x" y 6 en el "y").
  * - Fichas Rojas y Amarillas. La primera partida la comienza siempre la Roja
